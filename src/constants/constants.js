@@ -19,16 +19,16 @@ export const projects = [
 		visit: "https://github.com/IT20121556/myfirst_blog",
 		id: 1,
 	},
-	// {
-	// 	title: "WebRTC App",
-	// 	description:
-	// 		"This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-	// 	image: "/images/3.jpg",
-	// 	tags: ["React", "WebRTC"],
-	// 	source: "https://google.com",
-	// 	visit: "https://google.com",
-	// 	id: 2,
-	// },
+	{
+		title: "E-Commerce App",
+		description:
+			"This repository is about a fully functional simple e-commerce application, that is created with commerce.js (for backend API) and for the payment gateway I've used 'Stripe'. For the interface, I've also used material-UI as well.",
+		image: "/images/myshopping.jpeg",
+		tags: ["React", "CommerceJs", "Stripe"],
+		source: "https://commercejsmyshopping.netlify.app",
+		visit: "https://github.com/IT20121556/e-commerce_app",
+		id: 2,
+	},
 	// {
 	// 	title: "Unichat",
 	// 	description:
