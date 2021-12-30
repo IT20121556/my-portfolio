@@ -1,5 +1,5 @@
 ## My Portfolio
 
-### [Live Site](https://portfolio-one-kappa-11.vercel.app)
+### [Live Site](https://pramodarachchige.netlify.app)
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
